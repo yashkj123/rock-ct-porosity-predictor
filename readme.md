@@ -52,6 +52,13 @@ python predict.py
 ```
 
 ---
+🚧 Local Demo Only (Testing Mode)
+
+This application is currently running locally using Gradio. You can test it by running the following command:
+
+```bash
+python app.py
+
 
 ## 📤 Output Example
 
