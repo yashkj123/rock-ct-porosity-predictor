@@ -52,13 +52,6 @@ python predict.py
 ```
 
 ---
-🚧 Local Demo Only (Testing Mode)
-
-This application is currently running locally using Gradio. You can test it by running the following command:
-
-```bash
-python app.py
-
 
 ## 📤 Output Example
 
@@ -94,10 +87,10 @@ numpy
 
 ---
 
-## 🌐 Coming Soon
+## ✍️ Credits
 
-- [ ] Web UI using Gradio for interactive image upload
-- [ ] Hugging Face Spaces deployment for public demo
+- U-Net implementation in PyTorch  
+- Developed by **Yash Kumar Jha**  
 
 ---
 
@@ -105,3 +98,30 @@ numpy
 
 This project is open-source and free to use for academic, research, and demo purposes with proper attribution to the author.
 
+---
+
+## 🌍 Live Demo (Web App)
+
+✅ You can try the Rock CT Porosity Predictor directly in your browser:  
+🔗 **[Launch Live App](https://yashkj123-rock-ct-porosity-predictor.hf.space)** *(hosted on Hugging Face Spaces)*
+
+No installation required — just upload your `.png` rock CT scan and get instant predictions with visual results.
+
+---
+
+## 🧪 Local Demo (Terminal Version)
+
+To run the project locally:
+
+1. Clone this repository
+2. Install dependencies using:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Launch local app:
+   ```bash
+   python app.py
+   ```
+
+Open your browser and visit:  
+👉 `http://127.0.0.1:7860/` to use the app locally
