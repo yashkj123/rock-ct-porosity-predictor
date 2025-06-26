@@ -87,13 +87,6 @@ numpy
 
 ---
 
-## ✍️ Credits
-
-- U-Net implementation in PyTorch  
-- Developed by **Yash Kumar Jha**  
-
----
-
 ## 🌐 Coming Soon
 
 - [ ] Web UI using Gradio for interactive image upload
